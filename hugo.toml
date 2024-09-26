@@ -1,0 +1,6 @@
+baseURL = 'https://docs.wandachowicz.com/'
+languageCode = 'pl-pl'
+title = 'Dokumentacja zadania rekrutacyjnego'
+theme = 'dark-theme-editor'
+enableEmoji = true
+relativeURLs = true

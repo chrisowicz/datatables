@@ -1,0 +1,33 @@
+# Hugo
+/public/
+/resources/
+/config.toml
+/config.yaml
+/config.json
+/hugo_stats.json
+/hugo_version.txt
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+
+# Generated files
+/public/
+.resources/
+.htaccess
